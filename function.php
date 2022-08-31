@@ -35,6 +35,7 @@ using user define function write a php program to
 check even or odd number ?
 */
 
+function evenodd(){}
 $a = 58;
 if($a % 2 == 0){
 echo "this is even number";
